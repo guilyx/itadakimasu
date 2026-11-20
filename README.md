@@ -12,4 +12,4 @@ What's inside `index.html`:
 
 Hotel photos in `img/` are from each property's Booking.com page. Prices change, so check before booking.
 
-Every push to `main` republishes the site to the `gh-pages` branch.
+Every push to `main` deploys the site with GitHub Actions (Settings → Pages → Source: GitHub Actions).
